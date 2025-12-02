@@ -1,1 +1,10 @@
+Ethan Howe & Branden Levoyer.
 
+Minor Mod - John Lemon freezes in fear and the player must mash a button to break him free.
+Major Mod - John Lemon can sprint with limited stamina and respective UI elements.
+
+My biggest challenge was getting the collaboration to work.
+I tried doing the Unity Version Control system and it didn't work, and I looked into other ways but they went way over my head.
+So we just worked it out by sending files back and forth.
+
+I would like to modify the camera into a 3rd POV and have the gargoyle enemies act like Weeping Angels, where they move only when no-one is looking.
