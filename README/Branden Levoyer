@@ -1,1 +1,7 @@
+Ethan Howe & Branden Levoyer.
+
+Minor Mod - John Lemon freezes in fear and the player must mash a button to break him free.
+Major Mod - John Lemon can sprint with limited stamina and respective UI elements.
+
+I would say the largest challenge I had was coding the freezing aspect when I was running into issues with the Input of the actual button mashing as well as later running into the issue where it is a percent chance per frame and if you're rendering it at 30 frames per second or even 60 frames per second it's like exponentially easier to freeze and I had to set it to a very very low percentage chance per frame so now it happens less commonly while you're playing but it still happens occasionally in a more comfortable kind of randomness rather than it just happening every few seconds I also added a timer on the freezing if you don't button mash it will eventually go away if you don't mash the button enough
 
